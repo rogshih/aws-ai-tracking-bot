@@ -144,7 +144,8 @@
             "gave",
             "gave away",
             "dropped off",
-            "contributed"
+            "contributed",
+            "skipped"
           ],
           "prompt": "What did you do?"
         },
